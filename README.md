@@ -1,6 +1,6 @@
 <!-- 👋 Intro Section -->
 <h1 align="center">Hi 👋, I'm Abdur Rhaman</h1>
-<h3 align="center">A passionate AI-ML Developer from Bangladesh</h3>
+<h3 align="center">A passionate Junior-AI-ML developer from Bangladesh</h3>
 
 <!-- Funny GIF Example (replace link with your own gif) -->
 <p align="center">
