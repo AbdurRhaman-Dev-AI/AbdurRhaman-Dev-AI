@@ -59,5 +59,5 @@
 
 <!-- Extra Funny Meme Spot -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="200" alt="Funny coding gif"/>
+  <img src="https://media.giphy.com/media/kudIERso2pFiE/giphy.gif"/>
 </p>
