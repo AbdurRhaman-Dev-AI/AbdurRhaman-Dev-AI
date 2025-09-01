@@ -9,30 +9,23 @@
 
 ---
 
-<!-- Profile Views Counter (corrected) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Visitors&color=0e75b6&style=for-the-badge" alt="profile views"/>
-</p>
-
----
-
 ### 📫 How to reach me
 **abdurrhaman30ar@gmail.com**
 
 ---
 
 ### 🌐 Connect with me
-<p align="left">
-  <a href="https://twitter.com/YOUR_TWITTER" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://fb.com/YOUR_FACEBOOK" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-  <a href="https://discord.gg/YOUR_DISCORD" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://fb.com/YOUR_FACEBOOK" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+  <a href="https://discord.gg/YOUR_DISCORD" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -44,18 +37,30 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
+
 <p align="center">
-  <!-- Main stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="180" alt="stats" />
-  
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=radical" height="180" alt="languages" />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&langs_count=8" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Streak stats -->
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak"/>
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Visitors&color=0e75b6&style=for-the-badge" alt="Visitors Counter"/>
+
+  <!-- Repo Counter (manual update for now) -->
+  <img src="https://img.shields.io/badge/Public%20Repos-10-blue?style=for-the-badge" alt="Public Repos"/>
+
+  <!-- Followers Counter -->
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=brightgreen" alt="GitHub Followers"/>
 </p>
 
 ---
