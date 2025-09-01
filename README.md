@@ -40,14 +40,6 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&langs_count=8" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
