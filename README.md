@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">Hello! I'm Abdullah Al Kafi, A Full-Stack Web Developer with expertise in building high-quality, scalable solutions using modern web technologies. I am passionate about creating seamless user experiences and continuously learning new skills. Let's collaborate on something amazing! 🚀</h3>
+<h3 align="left">Hello! I'm Abdur Rhaman, A junior AI-ML Developer with expertise in building high-quality, scalable solutions using modern web technologies. I am passionate about creating seamless user experiences and continuously learning new skills. Let's collaborate on something amazing! 🚀</h3>
 
 
 
@@ -33,13 +33,13 @@
 
 - 👯 I’m looking to collaborate on **Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://abdullah-al-kafi-dev.vercel.app/](https://abdullah-al-kafi-dev.vercel.app/)
+- 👨‍💻 All of my projects are available at [0)
 
-- 💬 Ask me about **reactjs,nodejs,nextjs,mongodb,typescript,mongoose**
+- 💬 Ask me about **pandas,Flask,**
 
-- 📫 How to reach me **abdullahalkafi742@gmail.com**
+- 📫 How to reach me **abdurrhaman30ar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vzZOzN9bIf1h68XBmNipGopqKf1is066/view?usp=sharing](https://drive.google.com/file/d/1vzZOzN9bIf1h68XBmNipGopqKf1is066/view?usp=sharing)
+- 📄 Know about my experiences [0)
 
 
 
@@ -86,7 +86,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahalkafi-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=[AbdurRhaman-Dev-AI]dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahalkafi-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=abdullahalkafi-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
 </div>
