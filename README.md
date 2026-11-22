@@ -30,7 +30,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,nextjs,react,tailwind,threejs,firebase,git,github,vscode,blender&perline=7" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,nextjs,firebase,git,github,vscode,blender&perline=7" alt="Tech Stack Icons" />
 </p>
 
 ---
