@@ -1,35 +1,56 @@
-### Hi, I'm Abdur Rahman 👋
+<div align="center">
 
-**Computer Science & Technology Diploma Engineer** | **Python Developer (2+ Years)** | **3D Modeling & AI Tooling**
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4b7694000.gif" width="220" alt="Coding Illustration" />
 
-I build practical software projects combining **Python**, **full-stack web development**, and **3D modeling workflows**. I enjoy turning ideas into clean, usable applications—from personal productivity tools to interactive 3D asset pipelines.
+  <h1>Hi 👋, I'm Abdur Rahman</h1>
+  <h3>🎓 CS & Technology Diploma Engineer | 🐍 Python Dev (2+ Yrs) | 🧊 3D Modeling & 🤖 AI Tooling</h3>
 
----
+  <p>
+    <a href="https://github.com/AbdurRhaman-Dev-AI">
+      <img src="https://img.shields.io/badge/GitHub-AbdurRhaman--Dev--AI-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=AbdurRhaman-Dev-AI&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  </p>
 
-#### 🛠️ Skills & Tech Stack
-- **Languages:** Python (2+ years), TypeScript, JavaScript, HTML/CSS
-- **Web & App Development:** Next.js, React, Tailwind CSS, Firebase, Three.js
-- **3D & Creative Engineering:** 3D Modeling & Mesh Processing (`trimesh`), GLB / FBX / OBJ asset pipelines, high-detail figure & model workflows
-- **AI & Systems:** LLM-assisted development, Agentic AI workflows, Python automation & systems fundamentals
-
----
-
-#### 🚀 Featured Projects
-
-- **[Daily Flow](https://github.com/AbdurRhaman-Dev-AI/daily-flow)**  
-  A story-driven daily journaling web app with rich text notes, image/video memories, an interactive monthly calendar with date indicators, automatic entry timestamps, and per-user Firebase data isolation.
-
-- **AI-Assisted 3D Asset Studio**  
-  A full-stack 2D-image-to-3D and text-to-3D creation workspace featuring interactive Three.js viewport controls, natural-language model editing, mesh part separation/slicing, and multi-format export (`.glb`, `.fbx`, `.obj`).
+</div>
 
 ---
 
-#### 🎯 Current Focus & Roadmap
-- Expanding full-stack engineering and 3D software tooling projects.
-- Deepening Python systems engineering and Agentic AI skills ahead of **2027** software engineering roles.
-- Preparing for a **BSc in Computer Science** in **2028**.
+### 👨‍💻 About Me
+
+- 🎓 **Computer Science & Technology Diploma Engineer** building practical software & creative 3D tools
+- 🐍 **2+ years of Python experience** across automation, backend logic, and AI workflows
+- 🧊 Experienced in **3D Modeling & Mesh Pipelines** (`.glb`, `.fbx`, `.obj`, `trimesh`, Three.js)
+- 🚀 Currently building **[Daily Flow](https://github.com/AbdurRhaman-Dev-AI/daily-flow)** ✨ & an **AI-Assisted 3D Asset Studio** 🎨
+- 🎯 Focused on **Agentic AI & Systems Engineering** for 2027 SWE roles & **BSc in CS (2028)**
+- ⚡ Fun fact: I love turning 2D concepts and anime-style designs into detailed 3D models 🗿
 
 ---
 
-#### 📫 Connect
-- **GitHub:** [@AbdurRhaman-Dev-AI](https://github.com/AbdurRhaman-Dev-AI)
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,nextjs,react,tailwind,threejs,firebase,git,github,vscode,blender&perline=7" alt="Tech Stack Icons" />
+</p>
+
+---
+
+### 🔥 Featured Builds
+
+| 🚀 Project | 💡 What It Does | 🧰 Stack |
+| :--- | :--- | :--- |
+| **[✨ Daily Flow](https://github.com/AbdurRhaman-Dev-AI/daily-flow)** | Story-driven daily journal with media memories, interactive calendar & Firebase auth | `Next.js` `TypeScript` `Tailwind` `Firebase` |
+| **🧊 AI-Assisted 3D Studio** | 2D/Text-to-3D workspace with Three.js controls, part slicing & GLB/FBX/OBJ export | `Python` `Three.js` `trimesh` `AI` |
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdurRhaman-Dev-AI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRhaman-Dev-AI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=AbdurRhaman-Dev-AI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
