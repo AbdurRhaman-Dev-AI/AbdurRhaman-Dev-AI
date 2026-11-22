@@ -30,7 +30,12 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,firebase,git,github,vscode,blender&perline=7" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,firebase,git,github,vscode,blender&perline=8" alt="Tech Stack Icons" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
 </p>
 
 ---
